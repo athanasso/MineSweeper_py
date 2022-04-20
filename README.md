@@ -1,3 +1,3 @@
 # MineSweeper_py
 
-# A simmple Minesweeper implementation with tkinter python
+# A simple Minesweeper implementation with tkinter python
